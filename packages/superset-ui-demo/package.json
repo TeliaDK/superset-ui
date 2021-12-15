@@ -36,7 +36,7 @@
     "@storybook/addons": "^5.0.6",
     "@storybook/react": "^5.0.6",
     "@superset-ui/chart": "^0.12.1",
-    "@superset-ui/color": "^0.12.1",
+    "@superset-ui/color": "^0.14.23",
     "@superset-ui/connection": "^0.12.0",
     "@superset-ui/legacy-plugin-chart-sankey": "^0.10.0",
     "@superset-ui/legacy-plugin-chart-sunburst": "^0.11.0",
